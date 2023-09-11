@@ -38,6 +38,17 @@ class LoginModel extends FlutterFlowModel {
 
   /// Initialization and disposal methods.
 
+  void initState(BuildContext context) {
+    emailTextControllerValidator = _emailTextControllerValidator;
+    passwordVisibility = false;
+    passwordTextControllerValidator = _passwordTextControllerValidator;
+  }
+
+  void dispose() {
+    emailTextController?.dispose();
+    passwordTextController?.dispose();
+  }
+
   /// Action blocks are added here.
 
   /// Additional helper methods are added here.
