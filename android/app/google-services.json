@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "588502274309",
+    "project_id": "icoleta-c098f",
+    "storage_bucket": "icoleta-c098f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588502274309:android:fbef1cd7e3445d2e33676c",
+        "android_client_info": {
+          "package_name": "ColB.Do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588502274309-4im96fgqfja9manq56bngoi3debd51s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAef7Im4QQe-gTqG6qRDPTSOCv5a6GLMus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588502274309-4im96fgqfja9manq56bngoi3debd51s4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "588502274309-ihkgi2thhi89hhsf3hf57dglrm13jj7i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ColB.Do"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
