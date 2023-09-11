@@ -54,7 +54,8 @@ class _ConsultaColetaWidgetState extends State<ConsultaColetaWidget> {
       body: SafeArea(
         top: true,
         child: FlutterFlowWebView(
-          content: '',
+          content:
+              'https://geo.londrina.pr.gov.br/portal/apps/webappviewer/index.html?id=27a12430f469471d933b9e7c78e98a9a',
           bypass: false,
           height: 1000.0,
           verticalScroll: false,
